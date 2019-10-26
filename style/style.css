@@ -5,6 +5,9 @@ li, p {
   text-align: center;
   color: lightblue;
 }
+ul{
+  list-style-type: none;
+}
 nav{
   border: solid navy;
   margin: 0;
@@ -53,7 +56,6 @@ h1.resume {
   color: black;
 }
 ul.resume{
-  list-style: none;
   font-weight: bold;
 }
 h2.resume{
